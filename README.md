@@ -65,11 +65,13 @@ Include some interesting codes/features that I have worked with
 
 - Advanced visualization charts like Funnel charts, Stacked Sunburst charts, Heatmap charts, Dendrogram charts, Infrographic charts etc.
 - Customized dashboard.
+  - Tableau Link: [Analysis of Sepsis and Its Correlation With Lung Failure | Tableau Public](https://public.tableau.com/views/AnalysisofSepsisandItsCorrelationWithLungFailure/AnalysisofSepsisandItsCorrelationWithLungFailure?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
  
 ### Insights
 
-As per my analysis, among all patients with Sepsis, Onset and SIRS, around 10%  to 20% of patients who experience either with Lung, Kidney, Heart or Liver Failure are at high risk of mortality exceeding 90%
-- The Analysis results are summarized in the presentation file included here. Please download     the Presentation file including all dashboard, charts, insights and findings here :
+As per my analysis, among all patients with Sepsis, Onset and SIRS, around 10%  to 20% of patients who experience either Lung, Kidney, Heart or Liver Failure are at high risk of mortality exceeding 90%
+- The Analysis results are summarized in the presentation file included here. Please download the Presentation file for dashboard, insights and findings here :
 
 [Sepsis Git Hub.pptx](https://github.com/SmitaPinjan/Analysis-of-Sepsis-and-Its-Correlation-With-Lung-Failure/files/14564925/Sepsis.Git.Hub.pptx)
 
