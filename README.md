@@ -71,7 +71,7 @@ Include some interesting codes/features that I have worked with
 ### Insights
 
 As per my analysis, among all patients with Sepsis, Onset and SIRS, around 10%  to 20% of patients who experience either Lung, Kidney, Heart or Liver Failure are at high risk of mortality exceeding 90%
-- The Analysis results are summarized in the presentation file included here. Please download the Presentation file for dashboard, insights and findings here :
+- The Analysis results are summarized in the presentation file included here. Please download the Presentation file for the detailed analysis including dashboard, insights and findings here :
 
 [Sepsis Git Hub.pptx](https://github.com/SmitaPinjan/Analysis-of-Sepsis-and-Its-Correlation-With-Lung-Failure/files/14564925/Sepsis.Git.Hub.pptx)
 
@@ -79,12 +79,12 @@ As per my analysis, among all patients with Sepsis, Onset and SIRS, around 10%  
 ### Recommendations
 
 Based on the analysis, I recommend the following actions:
-- Healthcare professional can impletement similar dashboards to alert the caregiver whenever Patient's conditions starts changing abnormally.
+- Healthcare professionals can implement similar dashboards to alert the caregiver whenever a Patient's condition starts changing abnormally.
 - Implement a strategy to detect early signs of Sepsis and provide proper diagnosis.
 
 
 ### References
-As provided in presentation file.
+As provided in the presentation file.
 
 |Heading1|Heading2|
 |--------|--------|
