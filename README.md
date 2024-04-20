@@ -8,6 +8,7 @@
 - [Tools](#tools)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
+- [Visualization](#visualization)
 - [Insights](#insights)
 - [Recommendations](#recommendations)
 - [References](#references)
@@ -60,6 +61,8 @@ Include some interesting codes/features that I have worked with
         ELSE "Non-Sepsis Patient"
         END
   ~~~
+
+### Visualization
 
 - Advanced visualization charts like Funnel charts, Stacked Sunburst charts, Heatmap charts, Dendrogram charts, Infrographic charts etc.
 - Customized dashboard.
