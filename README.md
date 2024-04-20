@@ -64,12 +64,36 @@ Include some interesting codes/features that I have worked with
 - Advanced visualization charts like Funnel charts, Stacked Sunburst charts, Heatmap charts, Dendrogram charts, Infrographic charts etc.
 - Customized dashboard.
   - Tableau Link: [Analysis of Sepsis and Its Correlation With Lung Failure | Tableau Public](https://public.tableau.com/views/AnalysisofSepsisandItsCorrelationWithLungFailure/AnalysisofSepsisandItsCorrelationWithLungFailure?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+    
+![image](https://github.com/SmitaPinjan/Analysis-of-Sepsis-and-Its-Correlation-With-Lung-Failure/assets/152721562/ed403ed1-eca6-4784-9168-bc13a3ade6bc)
+
+![image](https://github.com/SmitaPinjan/Analysis-of-Sepsis-and-Its-Correlation-With-Lung-Failure/assets/152721562/d224fa77-c82b-403e-8c17-8d37b86c40d7)
+
+![image](https://github.com/SmitaPinjan/Analysis-of-Sepsis-and-Its-Correlation-With-Lung-Failure/assets/152721562/449a5004-b3ba-448f-93c7-f6cf1ad1d62f)
+
+![image](https://github.com/SmitaPinjan/Analysis-of-Sepsis-and-Its-Correlation-With-Lung-Failure/assets/152721562/4c33065f-b1fe-4743-a1af-b2fb643e606f)
+
+![image](https://github.com/SmitaPinjan/Analysis-of-Sepsis-and-Its-Correlation-With-Lung-Failure/assets/152721562/85cb1e6a-2ae5-473d-9286-fece7b784108)
+
+![image](https://github.com/SmitaPinjan/Analysis-of-Sepsis-and-Its-Correlation-With-Lung-Failure/assets/152721562/6da9846c-7476-4e0d-b3da-192b537fac7f)
+
+![image](https://github.com/SmitaPinjan/Analysis-of-Sepsis-and-Its-Correlation-With-Lung-Failure/assets/152721562/98bc2e43-3e95-45f6-93e2-46f144bbab8f)
+
+![image](https://github.com/SmitaPinjan/Analysis-of-Sepsis-and-Its-Correlation-With-Lung-Failure/assets/152721562/f336a596-85c6-47ed-9f46-a3521d2d3402)
 
  
 ### Insights
 
-As per my analysis, among all patients with Sepsis, Onset and SIRS, around 10%  to 20% of patients who experience either Lung, Kidney, Heart or Liver Failure are at high risk of mortality exceeding 90%
-- The Analysis results are summarized in the presentation file. Please check the Presentation file for the detailed analysis including the dashboard, insights and findings for more information. 
+As per my analysis, among all patients with Sepsis, Onset and SIRS, around 10%  to 20% of patients who experience either Lung, Kidney, Heart or Liver Failure are at high risk of mortality exceeding 90%.
+Some of the key insights:
+
+- As analysed, 1% patients were sepsis, 6% were onset sepsis (who didnt have spesis when admitted but later-on diagoned with sepsis). So bascially for evry 100 patients, 7 patients are diagonsed with Sepsis infection.
+- Sepsis patients those transferred from hospital to ICU were 95% compared to those who transferred from ICU to hospital were 0.1%. This indicates the recovery rate of Sepsis patient is minimal. Therefore, early detection of Sepsis is essential for better treatment.
+- As per analysis, 31% patients showed signs of Acute Respiratory Distress Syndrom (ARDS) and Hypoxemia.Among those, 60-70% of female and 70-80% of male patients between age group 20-40 are having highest risk of respiratory failure.
+- 60% of patients admitted in ICU shown SIRS (Systemic Inflammatory Response Syndrom) condition which indicates the early signs of Sepsis infection.
+- As analyzed, 4% of patients with Severe Respiratory System failure risks, 7% with Severe Renal System Failure, 2% with Severe Liver Failure, 1% with Severe Coagulation failure risk have a moderate to severe risk of Multi-Organ failure risk.
+
+- More detailed analysis results are summarized in the presentation file below. Please check the Presentation file for the detailed analysis including the dashboard, insights and findings for more information. 
 [Sepsis Analysis Presentation (3).pptx](https://github.com/SmitaPinjan/Analysis-of-Sepsis-and-Its-Correlation-With-Lung-Failure/files/15046771/Sepsis.Analysis.Presentation.3.pptx)
 
 ### Recommendations
