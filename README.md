@@ -69,7 +69,8 @@ Include some interesting codes/features that I have worked with
 ### Insights
 
 As per my analysis, among all patients with Sepsis, Onset and SIRS, around 10%  to 20% of patients who experience either Lung, Kidney, Heart or Liver Failure are at high risk of mortality exceeding 90%
-- The Analysis results are summarized in the presentation file. Please check the Presentation file for the detailed analysis including the dashboard, insights and findings for more information.
+- The Analysis results are summarized in the presentation file. Please check the Presentation file for the detailed analysis including the dashboard, insights and findings for more information. 
+[Sepsis Analysis Presentation (3).pptx](https://github.com/SmitaPinjan/Analysis-of-Sepsis-and-Its-Correlation-With-Lung-Failure/files/15046771/Sepsis.Analysis.Presentation.3.pptx)
 
 ### Recommendations
 
