@@ -1,5 +1,7 @@
 # Analysis of Sepsis and Its Correlation With Lung Failure
 
+![Sepsis D1](https://github.com/SmitaPinjan/Analysis-of-Sepsis-and-Its-Correlation-With-Lung-Failure/assets/152721562/78597706-b6ac-4434-a75c-15dc56327bba)
+
 ### Table of Contents
 
 - [Problem Statement](#problem-statement)
